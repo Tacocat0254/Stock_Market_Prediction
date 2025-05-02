@@ -7,14 +7,11 @@ This project explores the use of deep learning—specifically Long Short-Term Me
 
 <H2>How to Run</H2>
 
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
 Clone the repo:
-```git clone https://github.com/your-username/stock-lstm-forecasting.git```
-cd stock-lstm-forecasting```
+```
+git clone https://github.com/your-username/stock-lstm-forecasting.git
+cd stock-lstm-forecasting
+```
 
 Install dependencies:
 
