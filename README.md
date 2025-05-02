@@ -9,19 +9,15 @@ This project explores the use of deep learning—specifically Long Short-Term Me
 
 Clone the repo:
 ```
-git clone https://github.com/your-username/stock-lstm-forecasting.git
+git clone https://github.com/Tacocat0254/COE379L_Prog4/edit/
 cd stock-lstm-forecasting
 ```
 
 Install dependencies:
-
-bash
-Copy
-Edit
+```
 pip install -r requirements.txt
+```
 Run the notebook:
-
-bash
-Copy
-Edit
+```
 jupyter notebook stock_forecasting.ipynb
+```
