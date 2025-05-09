@@ -5,6 +5,27 @@ This project explores the use of deep learning—specifically Long Short-Term Me
 - Data preprocessing for sequential modeling
 - Implementation of an LSTM model for next-day price prediction
 
+<H2>Data Sources</H2>
+Historical stock data was obtained for the following companies:
+
+- Google (GOOG) – 2006–2024
+- Microsoft (MSFT) – 2006–2024
+- IBM (IBM) – 2006–2024
+- Amazon (AMZN) – 2006–2024
+- Meta (META, used to be Facebook) – 2016–2024
+- Apple (AAPL) – 2006–2024
+- Netflix (NFLX) – 2006–2024
+- Tesla (TSLA) – 2010–2024
+  
+Each dataset includes the data with the following attributes:
+
+- Open Price
+- High Price
+- Low Price
+- Close Price
+- Volume
+
+
 <H2>How to Run</H2>
 
 Clone the repo:
