@@ -30,7 +30,7 @@ Each dataset includes the data with the following attributes:
 
 Clone the repo:
 ```
-git clone https://github.com/Tacocat0254/COE379L_Prog4/edit/
+git clone https://github.com/Tacocat0254/Stock_Market/edit/
 cd stock-lstm-forecasting
 ```
 
